@@ -13,7 +13,7 @@
 👨🏻‍💻 Software Engineer specialized in web & frontend development<br/>
 💻 Currently working at [Stockbit](https://stockbit.com/), one of the biggest retail investment platform in Indonesia<br/>
 🛠️ Mainly working on react & typescript project<br/>
-👨🏻‍🎓 Studied Information System at the Universitas Indonesia, Indonesia<br/>
+👨🏻‍🎓 Studied Information System at the Universitas Indonesia<br/>
 
 ---
 
